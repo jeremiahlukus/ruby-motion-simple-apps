@@ -1,3 +1,5 @@
+ScreenCast: https://www.youtube.com/watch?v=Ojofrcy2dgo&t=108s
+
 # Join the RubyMotion Slack Channel #
 
 [Here is the link.](http://motioneers.herokuapp.com/) Say hello!
