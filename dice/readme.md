@@ -1,4 +1,4 @@
-ScreenCaaast: https://www.youtube.com/watch?v=Ojofrcy2dgo&t=108s
+ScreenCast: https://www.youtube.com/watch?v=Ojofrcy2dgo&t=108s
 
 # Join the RubyMotion Slack Channel #
 
